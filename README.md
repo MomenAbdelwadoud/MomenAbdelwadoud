@@ -20,6 +20,10 @@ Building **[Jumla](https://jumlasudan.com)**, a quick-commerce delivery platform
 
 Most of my time goes into the parts that have to stay correct: idempotent scheduled jobs, transactional inventory costing, and third-party syncs that survive retries and restarts.
 
+- 🌱 I’m currently learning **Software Architecture**
+
+- ⚡ Fun fact **I am a d4 chess player ♟️**
+
 ### Stack
 
 <p>
@@ -38,7 +42,3 @@ Most of my time goes into the parts that have to stay correct: idempotent schedu
 </p>
 
 Next on the list: AWS and edge/serverless.
-
----
-
-<sub>♟️ Still a d4 chess player.</sub>
